@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1027048621215",
-    "project_id": "hotelsystem-9d823",
-    "storage_bucket": "hotelsystem-9d823.appspot.com"
+    "project_number": "663224150085",
+    "project_id": "hotel-project-bd183",
+    "storage_bucket": "hotel-project-bd183.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1027048621215:android:f6e5c80603ac09847c4eaa",
+        "mobilesdk_app_id": "1:663224150085:android:fb1f09214e5b46eaee5b2c",
         "android_client_info": {
           "package_name": "com.example.hotelloginsystem"
         }
@@ -15,7 +15,26 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDM8ZqANXt88PpPFi4IYLzT5jGdUwg4Tuw"
+          "current_key": "AIzaSyByhhDqolzMaY9O4PqZcuUBoZAbRtxkbOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663224150085:android:6e54977da5343529ee5b2c",
+        "android_client_info": {
+          "package_name": "com.example.logincrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByhhDqolzMaY9O4PqZcuUBoZAbRtxkbOU"
         }
       ],
       "services": {
